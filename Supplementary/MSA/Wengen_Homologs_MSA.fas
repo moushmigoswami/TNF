@@ -1,0 +1,320 @@
+>sp|Q9VWS4|WGN DROME Tumor necrosis factor receptor superfamily member wengen OS=Drosophila melanogaster OX=7227 GN=wgn PE=1 SV=2
+------------------SPCAP------QHW--WDSQRDR-CTPCTRC---------QG-E-M----------IPLRPCQ-LHT-DTICGS---
+>tr|A0A026VUS0|A0A026VUS0 OOCBI TNFR-Cys domain-containing protein OS=Ooceraea biroi OX=2015173 GN=X777 16419 PE=4 SV=1
+------------------PVCKP-----GLEF--WSADRAA-CWPCTRC---------AP-E------------FTLSPCA-VHK-DAICGP---
+>tr|A0A026WMC6|A0A026WMC6 OOCBI TNFR-Cys domain-containing protein OS=Ooceraea biroi OX=2015173 GN=DMN91 000936 PE=4 SV=1
+------------------GKCPA-----GTYS--PHHNTQP-CWNCARC---------GP-G-L----------YEAHPCT-PRS-DTVCDS---
+>tr|A0A067RDU7|A0A067RDU7 ZOONE TNFR-Cys domain-containing protein OS=Zootermopsis nevadensis OX=136037 GN=L798 09243 PE=4 SV=1
+------------------ALCRP-----GHQF--WDETSER-CVNCSKC---------PVAG-H----------VVLRPCQ-VHQ-DTQCGP---
+>tr|A0A067RHS5|A0A067RHS5 ZOONE TNFR-Cys domain-containing protein OS=Zootermopsis nevadensis OX=136037 GN=L798 06445 PE=4 SV=1
+------------------HECDR------NKY--CYKVAGI-CVPCTDC-K-V-YYRQKP--------------ALYPNC--PKV-PLQCGE---
+>tr|A0A0J7NM82|A0A0J7NM82 LASNI TNFR-Cys domain-containing protein OS=Lasius niger OX=67767 GN=RF55 6327 PE=4 SV=1
+------------------PVCKP-----GLEF--WSAERAS-CWPCTRC---------AP-D------------FTLSPCA-VHK-DAICGS---
+>tr|A0A0K8VGA4|A0A0K8VGA4 BACLA TNFR-Cys domain-containing protein OS=Bactrocera latifrons OX=174628 GN=c2 g1 i1 PE=4 SV=1
+------------------SPCDR------NSW--WDPLKDK-CIPCTVC---------ED-G-L----------IPLRPC------QFQCDT---
+>tr|A0A0L0CG93|A0A0L0CG93 LUCCU TNFR-Cys domain-containing protein OS=Lucilia cuprina OX=7375 GN=FF38 07837 PE=4 SV=1
+------------------SLCES------QSW--WDPYKDK-CIPCTVC---------QG-D-M----------IPLRPCQ-MHR-DTVCGS---
+>tr|A0A0L7R642|A0A0L7R642 9HYME Tumor necrosis factor receptor superfamily member 3 OS=Habropoda laboriosa OX=597456 GN=WH47 07406 PE=4 SV=1
+------------------GKCAP-----GTYS--PHHSIQP-CWICSRC---------GP-G-L----------YEAHPCT-SKM-DTVCDS---
+>tr|A0A0L7R7I2|A0A0L7R7I2 9HYME TNFR-Cys domain-containing protein OS=Habropoda laboriosa OX=597456 GN=WH47 00414 PE=4 SV=1
+------------------PVCKP-----GLEF--WSVEHAN-CWPCTTC---------AP-E------------FTLSPCT-LYK-DAICGP---
+>tr|A0A0M4FAA0|A0A0M4FAA0 DROBS Wgn OS=Drosophila busckii OX=30019 GN=Dbus chrXg1493 PE=4 SV=1
+------------------SPCAP------QHW--WDQQQNK-CMPCTSC---------QG-N-M----------LALRPCQ-LHI-DTVCGS---
+>tr|A0A0M9A4N0|A0A0M9A4N0 9HYME TNFR-Cys domain-containing protein OS=Melipona quadrifasciata OX=166423 GN=WN51 11717 PE=4 SV=1
+------------------GKCVP-----GTYS--PHHSTQP-CWICSRC---------GP-G-L----------YEAHPCT-SKT-DTICDS---
+>tr|A0A146LJQ1|A0A146LJQ1 LYGHE TNFR-Cys domain-containing protein OS=Lygus hesperus OX=30085 GN=g.75699 PE=4 SV=1
+------------------NQCSR------FQY--WSSDLRA-CISCTKC---------DK-N-----------QILIVPCS-THR-DTECKT---
+>tr|A0A146LQ48|A0A146LQ48 LYGHE TNFR-Cys domain-containing protein OS=Lygus hesperus OX=30085 GN=g.75701 PE=4 SV=1
+------------------NQCSR------FQY--WSSDLRA-CISCTKC---------DK-N-Q----------ILIVPCS-THR-DTECKT---
+>tr|A0A151I501|A0A151I501 9HYME TNFR-Cys domain-containing protein OS=Atta colombica OX=520822 GN=ALC53 03587 PE=4 SV=1
+------------------ERCPS-----GTYS--PHHSTQP-CWNCARC---------GP-G-L----------YEAHPCT-SRT-DTVCDS---
+>tr|A0A151IES5|A0A151IES5 9HYME TNFR-Cys domain-containing protein OS=Cyphomyrmex costatus OX=456900 GN=ALC62 09953 PE=4 SV=1
+------------------PICRP-----GLEF--WSPERAS-CWPCTRC---------AP-E------------FTLSPCV-IHK-DAICGP---
+>tr|A0A151WHQ6|A0A151WHQ6 9HYME TNFR-Cys domain-containing protein OS=Trachymyrmex zeteki OX=64791 GN=ALC60 13611 PE=4 SV=1
+------------------PICRP-----GLEF--WSTERAS-CWPCTRC---------AP-E------------FILSPCV-IHK-DAICGP---
+>tr|A0A151X0X6|A0A151X0X6 9HYME TNFR-Cys domain-containing protein OS=Trachymyrmex zeteki OX=64791 GN=ALC60 07066 PE=4 SV=1
+------------------ERCPS-----GTYS--PHHSTQP-CWNCARC---------GP-G-L----------YEAHPCT-SRT-DTVCDS---
+>tr|A0A154PBV9|A0A154PBV9 DUFNO TNFR-Cys domain-containing protein OS=Dufourea novaeangliae OX=178035 GN=WN55 11119 PE=4 SV=1
+------------------PVCKP-----GLEF--WSVERAT-CWPCTRC---------VP-E------------FTLSPCA-IYK-DAICGP---
+>tr|A0A158NY27|A0A158NY27 ATTCE TNFR-Cys domain-containing protein OS=Atta cephalotes OX=12957 GN=105625722 PE=4 SV=1
+------------------ERCPS-----GTYS--PHHSTQP-CWNCARC---------GP-G-L----------YEAHPCT-SRT-DTVCDS---
+>tr|A0A158P222|A0A158P222 ATTCE TNFR-Cys domain-containing protein OS=Atta cephalotes OX=12957 GN=105627154 PE=4 SV=1
+------------------PICRP-----GLEF--WSTERAS-CWPCTRC---------AP-E------------FTLSPCV-IHK-DAICGP---
+>tr|A0A182MRP7|A0A182MRP7 9DIPT TNFR-Cys domain-containing protein OS=Anopheles culicifacies OX=139723 PE=4 SV=1
+------------------AACET-----HKSW--WDPTIGE-CVPCRIC---------AD-H-Q----------VILRPCQ-DYM-NTVCGT---
+>tr|A0A182N1C8|A0A182N1C8 9DIPT TNFR-Cys domain-containing protein OS=Anopheles dirus OX=7168 PE=4 SV=1
+------------------AVCKS-----QQHW--WDPAVQE-CVPCRVC---------GA-N-Q----------IVIRPCQ-DHM-DAACGT---
+>tr|A0A182PVL6|A0A182PVL6 9DIPT TNFR-Cys domain-containing protein OS=Anopheles epiroticus OX=199890 PE=4 SV=1
+------------------AACEP-----RASW--WDPTAGE-CVPCRVC---------AD-H-Q----------VVLRPCQ-DYM-NTVCGT---
+>tr|A0A182R0Y5|A0A182R0Y5 9DIPT TNFR-Cys domain-containing protein OS=Anopheles farauti OX=69004 PE=4 SV=1
+------------------AVCKS-----QQHW--WNPAVQE-CVPCRVC---------AT-N-Q----------IVIRPCQ-DHM-DAACGT---
+>tr|A0A182R3F9|A0A182R3F9 ANOFN TNFR-Cys domain-containing protein OS=Anopheles funestus OX=62324 PE=4 SV=2
+------------------AACES-----RKSW--WDPTIGE-CVPCRIC---------AD-H-Q----------VVLRPCQ-DYM-NTVCGT---
+>tr|A0A182T2N6|A0A182T2N6 9DIPT TNFR-Cys domain-containing protein OS=Anopheles maculatus OX=74869 PE=4 SV=1
+------------------AACES-----RKSW--WDPTIGE-CAPCRIC---------AD-H-Q----------VVLRPCQ-DYM-NTVCGT---
+>tr|A0A182THH4|A0A182THH4 9DIPT TNFR-Cys domain-containing protein OS=Anopheles melas OX=34690 PE=4 SV=1
+------------------AACEP-----RASW--WDPTVDD-CVPCRVC---------AD-H-Q----------VVLRPCQ-DYM-NTVCGT---
+>tr|A0A182W4A9|A0A182W4A9 9DIPT TNFR-Cys domain-containing protein OS=Anopheles minimus OX=112268 PE=4 SV=1
+------------------AACET-----HKSW--WDPTIGE-CVPCRIC---------AD-H-Q----------VILRPCQ-DYM-NTVCGT---
+>tr|A0A182WUB7|A0A182WUB7 ANOQN TNFR-Cys domain-containing protein OS=Anopheles quadriannulatus OX=34691 PE=4 SV=1
+------------------AACEP-----RASW--WDPTVDD-CVPCRVC---------AD-H-Q----------VVLRPCQ-DYM-NTVCGT---
+>tr|A0A194PD36|A0A194PD36 PAPXU TNFR-Cys domain-containing protein OS=Papilio xuthus OX=66420 GN=RR46 14740 PE=4 SV=1
+------------------HYC-P-----EGFY--CEPDLLY-CRKCLRC----------E-D----LKRESL--PSQSSC--IKS-VSDCGP---
+>tr|A0A194Q8J4|A0A194Q8J4 PAPXU TNFR-Cys domain-containing protein OS=Papilio xuthus OX=66420 GN=RR46 05066 PE=4 SV=1
+------------------GPCER-----GRSW--WHRRRGA-CLPCTRC---------DP-A-H--------L-AVKYPCE-VHR-DTVCQP---
+>tr|A0A194R4U0|A0A194R4U0 PAPMA TNFR-Cys domain-containing protein OS=Papilio machaon OX=76193 GN=RR48 06669 PE=4 SV=1
+------------------GPCER-----GRSW--WHRRRGA-CLPCTRC---------DP-A-R---------LAVKYPCE-VHR-DTVCQP---
+>tr|A0A195AW52|A0A195AW52 9HYME TNFR-Cys domain-containing protein OS=Atta colombica OX=520822 GN=ALC53 13287 PE=4 SV=1
+------------------PICRP-----GLEF--WSTERAS-CWPCTRC---------AP-E------------FTLSPCV-IHK-DAICGP---
+>tr|A0A195DMF4|A0A195DMF4 9HYME TNFR-Cys domain-containing protein OS=Trachymyrmex cornetzi OX=471704 GN=ALC57 13664 PE=4 SV=1
+------------------PICRP-----GLEF--WSTERAS-CWPCTRC---------AP-E------------FTLSPCV-IHK-DAICGP---
+>tr|A0A195FJ66|A0A195FJ66 9HYME TNFR-Cys domain-containing protein OS=Trachymyrmex septentrionalis OX=34720 GN=ALC56 05356 PE=4 SV=1
+------------------PICRP-----GLEF--WSTERAS-CWPCTRC---------AP-E------------FTLSPCV-IHK-DAICGP---
+>tr|A0A1A9W980|A0A1A9W980 9MUSC TNFR-Cys domain-containing protein OS=Glossina brevipalpis OX=37001 PE=4 SV=1
+------------------TLCNA------QSW--WDPTKDK-CVQCTVC---------KG-D-M----------IPLRPCQ-VHQ-DTMCGS---
+>tr|A0A1B0CSY5|A0A1B0CSY5 LUTLO TNFR-Cys domain-containing protein OS=Lutzomyia longipalpis OX=7200 PE=4 SV=1
+------------------GPCEK-----G-SW--WNSAEDR-CIKCTQC---------IE-A-------------TLRTCQ-PHT-DTICGT---
+>tr|A0A1B6MAX7|A0A1B6MAX7 9HEMI TNFR-Cys domain-containing protein OS=Graphocephala atropunctata OX=36148 GN=g.20789 PE=4 SV=1
+------------------SLCPS-----GLQY--WSTESES-CVNCSRC---------DSAAKQ----------VVIRPCQ-VHV-DTVCGP---
+>tr|A0A1I8M5U2|A0A1I8M5U2 MUSDO TNFR-Cys domain-containing protein OS=Musca domestica OX=7370 GN=101888223 PE=4 SV=1
+------------------SLCDP------QSW--WDPYKDK-CIPCTVC---------QG-D-M----------IPLRPCQ-MHR-DTVCGS---
+>tr|A0A1I8PDW4|A0A1I8PDW4 STOCA TNFR-Cys domain-containing protein OS=Stomoxys calcitrans OX=35570 GN=106082012 PE=4 SV=1
+------------------SLCDP------QSW--WDPYKDK-CIPCTVC---------QG-D-M----------IPLRPCQ-MHR-DTVCGS---
+>tr|A0A1W4X586|A0A1W4X586 AGRPL tumor necrosis factor receptor superfamily member wengen isoform X1 OS=Agrilus planipennis OX=224129 GN=LOC108741096 PE=4 SV=1
+------------------LICPQ-----GKQF--LDTERQR-CANCTIC---------DH-A-K--------GLVVLRPCE-VHR-DTICGT---
+>tr|A0A1Y1LVQ0|A0A1Y1LVQ0 PHOPY TNFR-Cys domain-containing protein OS=Photinus pyralis OX=7054 PE=4 SV=1
+------------------LVCPQ-----GKQF--LHHNLQI-CVNCSVC---------DN-E-K--------GQVVLRPCE-VHR-DTICGP---
+>tr|A0A212FP26|A0A212FP26 DANPL tumor necrosis factor receptor superfamily member wengen OS=Danaus plexippus plexippus OX=278856 GN=LOC116766099 PE=4 SV=1
+------------------GVCER-----GRTW--WHRQKGL-CLPCTRC---------DP-R-R--------L-AVRYPCE-PHR-DTICQP---
+>tr|A0A232FFN5|A0A232FFN5 9HYME TNFR-Cys domain-containing protein OS=Trichomalopsis sarcophagae OX=543379 GN=TSAR 005264 PE=4 SV=1
+------------------AECQP-----GTYS--PHHGTQP-CWICSRC---------GP-G-L----------YEARRCS-AST-DTVCDS---
+>tr|A0A2A3E2P4|A0A2A3E2P4 APICC TNFR-Cys domain-containing protein OS=Apis cerana cerana OX=94128 GN=APICC 07309 PE=4 SV=1
+------------------PVCKP-----GFEF--WSVEHAT-CLPCTRC---------AP-D------------FTLSPCA-IYK-DAICGP---
+>tr|A0A2A3EKS8|A0A2A3EKS8 APICC Tumor necrosis factor receptor superfamily member OS=Apis cerana cerana OX=94128 GN=APICC 05998 PE=4 SV=1
+------------------GKCAP-----GTYS--PHHSIQP-CWICSRC---------GP-G-L----------YEAHPCT-SKT-DTVCDS---
+>tr|A0A2A4J670|A0A2A4J670 HELVI TNFR-Cys domain-containing protein OS=Heliothis virescens OX=7102 GN=B5V51 7081 PE=4 SV=1
+------------------GACER-----GLSW--WDRQRGT-CVPCTRC---------DP-A-K--------RLVVRYPCE-IHR-DTICQS---
+>tr|A0A2A4JRE9|A0A2A4JRE9 HELVI TNFR-Cys domain-containing protein OS=Heliothis virescens OX=7102 GN=B5V51 13090 PE=4 SV=1
+------------------AHCSD------GYY--CETGAEI-CRECLSC---------EDLK-R-------EPPLAAITC--IKS-VAECGS---
+>tr|A0A2A4JUA1|A0A2A4JUA1 HELVI TNFR-Cys domain-containing protein OS=Heliothis virescens OX=7102 GN=B5V51 12469 PE=4 SV=1
+------------------NTCAN----LNNLYGIGNVCDTPSCVACNSC---------DN-A-C---------NLYGSACG-NPI-SNACNN---
+>tr|A0A2J7PPW5|A0A2J7PPW5 9NEOP TNFR-Cys domain-containing protein OS=Cryptotermes secundus OX=105785 GN=B7P43 G13565 PE=4 SV=1
+------------------HECDK-------YN--YCYTSGY-CVPCTDC-A-F-YKRKNQ--------------TSYPYC--AKE-PLQCGGCLP
+>tr|A0A2J7Q4Z9|A0A2J7Q4Z9 9NEOP TNFR-Cys domain-containing protein OS=Cryptotermes secundus OX=105785 GN=B7P43 G02491 PE=4 SV=1
+------------------ILCRP-----GHQF--WDETLEK-CINCSTC---------PKVG-H----------IVIRPCQ-VHE-DTQCGR---
+>tr|A0A2P8YKJ5|A0A2P8YKJ5 BLAGE TNFR-Cys domain-containing protein OS=Blattella germanica OX=6973 GN=C0J52 05596 PE=4 SV=1
+------------------TFCYE-----QGST----------CATCINC-S-T-YNRKDQ--------------KN-RSC--HKE-PKDCGD---
+>tr|A0A2S2NFI9|A0A2S2NFI9 SCHGA TNFR-Cys domain-containing protein OS=Schizaphis graminum OX=13262 GN=g.55055 PE=4 SV=1
+------------------IDCYK-----TNSY--CDISLNL-CSQCMNC----------S-I----YFRKTK--K-YIKC--PKD-ISDCSS---
+>tr|A0A2S2Q5F6|A0A2S2Q5F6 9HEMI TNFR-Cys domain-containing protein OS=Sipha flava OX=143950 GN=g.154398 PE=4 SV=1
+------------------SDCLE-----KNTY--CDVNLNL-CSQCLNC---------SS-M----YFRKQK--K-NIMC--AKD-ISDCSI---
+>tr|A0A310SJU4|A0A310SJU4 9HYME TNFR-Cys domain-containing protein OS=Eufriesea mexicana OX=516756 GN=WN48 04037 PE=4 SV=1
+------------------GKCAP-----GTYS--PHHSTQP-CWICSRC---------GP-G-L----------YEAHPCT-SKT-DTVCDSCHR
+>tr|A0A3B0JYV5|A0A3B0JYV5 DROGU TNFR-Cys domain-containing protein OS=Drosophila guanche OX=7266 GN=DGUA 6G010468 PE=4 SV=1
+------------------SPCAP------QHW--WDPVRDR-CTACTVC---------QG-E-M----------IPLRPCQ-LHT-NTICGS---
+>tr|A0A3L8DCP5|A0A3L8DCP5 OOCBI TNFR-Cys domain-containing protein OS=Ooceraea biroi OX=2015173 GN=DMN91 009885 PE=4 SV=1
+------------------PVCKP-----GLEF--WSADRAA-CWPCTRC---------AP-E------------FTLSPCA-VHK-DAICGP---
+>tr|A0A437BF17|A0A437BF17 CHISP TNFR-Cys domain-containing protein OS=Chilo suppressalis OX=168631 GN=evm 006407 PE=4 SV=1
+------------------IQCRR-----GVSW--WDRERGV-CAPCTRC---------DP-A-R--------RLAVMYPCE-LHR-DTICQP---
+>tr|A0A482VZ73|A0A482VZ73 9CUCU TNFR-Cys domain-containing protein OS=Asbolus verrucosus OX=1661398 GN=BDFB 012587 PE=4 SV=1
+------------------SICVQ-----GKQY--LKSET---CVNCTEC------------A-E--------GNLVLRPCE-IHR-DTVCGP---
+>tr|A0A482WMM6|A0A482WMM6 LAOST TNFR-Cys domain-containing protein OS=Laodelphax striatellus OX=195883 GN=LSTR LSTR007816 PE=4 SV=1
+------------------APCNV-----GISYSPHHSYRAP-CWQCSRC---------GQ-G-L----------YAAHPCH-PSR-DTICDS---
+>tr|A0A482WSJ0|A0A482WSJ0 LAOST TNFR-Cys domain-containing protein OS=Laodelphax striatellus OX=195883 GN=LSTR LSTR009559 PE=4 SV=1
+------------------SLCQF-----GKEY--WSEEEGA-CVKCSRC---------EQPDAR----------VVLRPCQ-VHR-DTVCGP---
+>tr|A0A482XQ85|A0A482XQ85 LAOST TNFR-Cys domain-containing protein OS=Laodelphax striatellus OX=195883 GN=LSTR LSTR016446 PE=4 SV=1
+------------------SLCQF-----GKEY--WSEEEGA-CVKCSRC---------EQPDAR----------VVLRPCQ-VHR-DTVCGP---
+>tr|A0A4C1VC20|A0A4C1VC20 EUMVA TNFR-Cys domain-containing protein OS=Eumeta variegata OX=151549 GN=EVAR 27737 1 PE=4 SV=1
+------------------GECHT-----GHY---CASSV---CLRCYNC----------T-Q----YYMRAT-----DDC--SRS-ITECGE---
+>tr|A0A4C1X186|A0A4C1X186 EUMVA Tumor necrosis factor receptor superfamily member wengen OS=Eumeta variegata OX=151549 GN=wgn PE=4 SV=1
+------------------AMCVR-----GRTW--WDRQRGA-CVPCTRC---------EP-A-S--------HLAVRAPCE-VHR-DAICAS---
+>tr|A0A4S2KW63|A0A4S2KW63 9HYME TNFR-Cys domain-containing protein OS=Temnothorax longispinosus OX=300112 GN=DBV15 07860 PE=4 SV=1
+------------------PLCEP-----GLEF--WSAERAS-CWPCTRC---------AP-E------------LTLSPCA-IHK-DATCGP---
+>tr|A0A4S2KWN6|A0A4S2KWN6 9HYME TNFR-Cys domain-containing protein OS=Temnothorax longispinosus OX=300112 GN=DBV15 00289 PE=4 SV=1
+------------------ERCPA-----GTYS--PHHSTQP-CWNCARC---------GP-G-L----------YEAHPCT-TRA-DTVCDS---
+>tr|A0A4S2KYP1|A0A4S2KYP1 9HYME TNFR-Cys domain-containing protein OS=Temnothorax longispinosus OX=300112 GN=DBV15 07369 PE=3 SV=1
+------------------FKCQS-----------CNRLGQYSCLRCKTC---------YC-EDHVRRKGFKYEKNKAIPCP-------KCSY---
+>tr|A0A5E4MYC2|A0A5E4MYC2 9HEMI TNFR-Cys domain-containing protein OS=Cinara cedri OX=506608 GN=CINCED 3A017516 PE=4 SV=1
+------------------NDCFE-----KNTY--CDVSLNL-CSQCLNC----SIYFRTP--------------KKHIEC--PKD-LSGCSN---
+>tr|A0A5E4Q075|A0A5E4Q075 9NEOP TNFR-Cys domain-containing protein OS=Leptidea sinapis OX=189913 GN=LSINAPIS LOCUS4303 PE=4 SV=1
+------------------GACER-----GKTW--WNPELSN-CVPCTRC---------DP-R-L--------L-AVKYPCE-VHR-DTICQP---
+>tr|A0A6E8VE76|A0A6E8VE76 ANOCL TNFR-Cys domain-containing protein OS=Anopheles coluzzii OX=1518534 PE=4 SV=1
+------------------AACEP-----RASW--WDPTVDD-CVPCRVC---------AD-H-Q----------VVLRPCQ-DYM-NTVCGT---
+>tr|A0A6I9VVY4|A0A6I9VVY4 9HYME tumor necrosis factor receptor superfamily member 4-like isoform X1 OS=Pogonomyrmex barbatus OX=144034 GN=LOC105423112 PE=4 SV=1
+------------------GRCRA-----GTYS--PHHSTQP-CWNCARC---------GP-G-L----------YEAHPCT-SRS-DTVCDS---
+>tr|A0A6I9WS52|A0A6I9WS52 9HYME tumor necrosis factor receptor superfamily member wengen OS=Pogonomyrmex barbatus OX=144034 GN=LOC105432788 PE=4 SV=1
+------------------PVCKP-----GLEF--WSAERAS-CWPCTRC---------AP-D------------FTLSPCA-IHK-DATCGP---
+>tr|A0A6J0BMJ3|A0A6J0BMJ3 NEOLC tumor necrosis factor receptor superfamily member wengen isoform X1 OS=Neodiprion lecontei OX=441921 GN=LOC107221106 PE=4 SV=1
+------------------PICQP-----GLGF--WEPKSGR-CLPCTKC---------AT-E------------FTLRPCA-VHQ-DTVCGP---
+>tr|A0A6J0BNS9|A0A6J0BNS9 NEOLC tumor necrosis factor receptor superfamily member wengen isoform X2 OS=Neodiprion lecontei OX=441921 GN=LOC107221106 PE=4 SV=1
+------------------PICQP-----GLGF--WEPKSGR-CLPCTKC---------AT-E------------FTLRPCA-VHQ-DTVCGP---
+>tr|A0A6J0C910|A0A6J0C910 NEOLC tumor necrosis factor receptor superfamily member 4-like OS=Neodiprion lecontei OX=441921 GN=LOC107227266 PE=4 SV=1
+------------------GKCTK-----GTYS--PHHSVHP-CWICSRC---------GP-G-L----------YEAHPCT-SRA-DTVCDS---
+>tr|A0A6J1MZ36|A0A6J1MZ36 BICAN tumor necrosis factor receptor superfamily member wengen isoform X1 OS=Bicyclus anynana OX=110368 GN=LOC112045985 PE=4 SV=1
+------------------GACER-----GRTW--WHRQRGA-CVPCTRC---------VP-R-R--------FVVVKFPCE-VHR-DTICQP---
+>tr|A0A6J1PN61|A0A6J1PN61 9HYME tumor necrosis factor receptor superfamily member wengen OS=Temnothorax curvispinosus OX=300111 GN=LOC112454148 PE=4 SV=1
+------------------PLCEP-----GLEF--WSAERAS-CWPCTRC---------AP-E------------LTLSPCA-IHK-DATCGP---
+>tr|A0A6J1QGV7|A0A6J1QGV7 9HYME tumor necrosis factor receptor superfamily member 4-like OS=Temnothorax curvispinosus OX=300111 GN=LOC112460558 PE=4 SV=1
+------------------ERCPA-----GTYS--PHHSTQP-CWNCARC---------GP-G-L----------YEAHPCT-TRA-DTVCDS---
+>tr|A0A6J2K8W0|A0A6J2K8W0 BOMMA tumor necrosis factor receptor superfamily member wengen OS=Bombyx mandarina OX=7092 GN=LOC114248823 PE=4 SV=1
+------------------GLCER-----GRSF--WDQKNQA-CTPCTHC---------DP-T-L--------RLVVKYPCE-VYR-DTICQS---
+>tr|A0A6J2SQF1|A0A6J2SQF1 DROHY tumor necrosis factor receptor superfamily member wengen OS=Drosophila hydei OX=7224 GN=LOC111603219 PE=4 SV=1
+------------------SPCAP------QHW--WDQVQDK-CMPCTSC---------QD-E-M----------IPLRPCQ-LHI-DTVCRS---
+>tr|A0A6J2TW09|A0A6J2TW09 DROLE tumor necrosis factor receptor superfamily member wengen OS=Drosophila lebanonensis OX=7225 GN=LOC115627527 PE=4 SV=1
+------------------SPCEP------NHW--WDPVQDK-CMPCTQC---------QG-E-M----------IPLRPCQ-LHR-DTICGS---
+>tr|A0A6J3KAB6|A0A6J3KAB6 9HYME tumor necrosis factor receptor superfamily member 4-like OS=Bombus vosnesenskii OX=207650 GN=LOC117233432 PE=4 SV=1
+------------------GKCAP-----GTYS--PHHSTQP-CWICSRC---------GP-G-L----------YEAHPCT-SKT-DTVCDS---
+>tr|A0A6J3L4L0|A0A6J3L4L0 9HYME tumor necrosis factor receptor superfamily member wengen OS=Bombus vosnesenskii OX=207650 GN=LOC117239045 PE=4 SV=1
+------------------PVCKP-----GFEF--WSVERAT-CWPCTRC---------AP-E------------FTLSPCA-IYK-DAICGP---
+>tr|A0A6L2PS77|A0A6L2PS77 COPFO TNFR-Cys domain-containing protein OS=Coptotermes formosanus OX=36987 GN=Cfor 04563 PE=4 SV=1
+------------------TQCSP--CREGAYS--PHHSYHTPCWVCSRC---------GP-G-L----------FEAHPCH-PAG-DTICDD---
+>tr|A0A6L2PTU0|A0A6L2PTU0 COPFO TNFR-Cys domain-containing protein OS=Coptotermes formosanus OX=36987 GN=Cfor 04555 PE=4 SV=1
+------------------KYCYT------SGY----------CVSCTDC-L-I-YKRENR--------------TSYPYC--AKS-AVECGR---
+>tr|A0A6L5CU63|A0A6L5CU63 9INSE TNFR-Cys domain-containing protein OS=Ephemera danica OX=1049336 GN=B566 EDAN009522 PE=4 SV=1
+------------------ELCPS-----GTYS--PHHSAVARCWLCSRC---------GD-G-L----------YEAHPCT-RRA-DTLCDR---
+>tr|A0A6M2DNI9|A0A6M2DNI9 9NEOP TNFR-Cys domain-containing protein OS=Xenopsylla cheopis OX=163159 PE=4 SV=1
+------------------IDCLA------NEY--CYEDTKY-CSACIDCSQYGQ--------------------KDPAGCAKEPR---DCED---
+>tr|A0A6M2E0N2|A0A6M2E0N2 9NEOP Putative tumor necrosis factor receptor superfamily member wengen-like isoform x1 OS=Xenopsylla cheopis OX=163159 PE=4 SV=1
+------------------AGCVH-----GRSY--WDASSQR-CVTCSHC------------G-R--------EEIVIRPCG-LDR-DIVCGP---
+>tr|A0A6P3DWF3|A0A6P3DWF3 BOMIM tumor necrosis factor receptor superfamily member wengen OS=Bombus impatiens OX=132113 GN=LOC100746355 PE=4 SV=1
+------------------PVCKP-----GFEF--WSVERAT-CWPCTRC---------AP-E------------FTLSPCA-IYK-DAICGP---
+>tr|A0A6P3E002|A0A6P3E002 BOMIM tumor necrosis factor receptor superfamily member 4-like OS=Bombus impatiens OX=132113 GN=LOC100743354 PE=4 SV=1
+------------------GKCAP-----GTYS--PHHSTQP-CWICSRC---------GP-G-L----------YEAHPCT-SKT-DTVCDS---
+>tr|A0A6P3XKJ2|A0A6P3XKJ2 DINQU tumor necrosis factor receptor superfamily member 4-like OS=Dinoponera quadriceps OX=609295 GN=LOC106746413 PE=4 SV=1
+------------------GRCPA-----GTYS--PHHSTQP-CWNCARC---------GP-S-L----------YEAHPCT-SRS-DTVCDS---
+>tr|A0A6P4F8P0|A0A6P4F8P0 DRORH tumor necrosis factor receptor superfamily member wengen OS=Drosophila rhopaloa OX=1041015 GN=LOC108049907 PE=4 SV=1
+------------------SPCAP------QHW--WDSQRDR-CIPCTRC---------QG-E-M----------IPLRPCQ-LHT-DTICGS---
+>tr|A0A6P4J5C5|A0A6P4J5C5 DROKI tumor necrosis factor receptor superfamily member wengen OS=Drosophila kikkawai OX=30033 GN=LOC108080380 PE=4 SV=1
+------------------SPCAP------QHW--WDSQRDR-CTACTRC---------QG-E-M----------IPLRPCQ-LHT-DTICGS---
+>tr|A0A6P7FYA3|A0A6P7FYA3 DIAVI tumor necrosis factor receptor superfamily member wengen OS=Diabrotica virgifera virgifera OX=50390 GN=LOC114332026 PE=4 SV=1
+------------------SFCSE------RQY--LNAKLQK-CMNCTQC-------KNST--------------VVLRPCE-FHR-DTHCGP---
+>tr|A0A6P8KMM8|A0A6P8KMM8 DROMA tumor necrosis factor receptor superfamily member wengen OS=Drosophila mauritiana OX=7226 GN=LOC117147495 PE=4 SV=1
+------------------SPCAP------QHW--WDSQRDR-CTPCTRC---------QG-E-M----------IPLRPCQ-LHT-DTICGS---
+>tr|A0A6P8MTK9|A0A6P8MTK9 9HYME tumor necrosis factor receptor superfamily member 4-like OS=Bombus bifarius OX=103933 GN=LOC117211903 PE=4 SV=1
+------------------GKCAP-----GTYS--PHHSTQP-CWICSRC---------GP-G-L----------YEAHPCT-SKT-DTVCDS---
+>tr|A0A6P8NCA1|A0A6P8NCA1 9HYME tumor necrosis factor receptor superfamily member wengen OS=Bombus bifarius OX=103933 GN=LOC117211909 PE=4 SV=1
+------------------PVCKP-----GFEF--WSVERAT-CWPCTRC---------AP-E------------FTLSPCA-IYK-DAICGP---
+>tr|A0A6P8XGV9|A0A6P8XGV9 DROAB tumor necrosis factor receptor superfamily member wengen OS=Drosophila albomicans OX=7291 GN=LOC117575518 PE=4 SV=1
+------------------SPCAP------QHW--WDQQHDR-CTPCTSC---------QG-E-M----------IPLRPCQ-LHI-DTVCGS---
+>tr|A0A7E5X2F2|A0A7E5X2F2 TRINI tumor necrosis factor receptor superfamily member wengen-like OS=Trichoplusia ni OX=7111 GN=LOC113508498 PE=4 SV=1
+------------------EACER-----GSSW--WDRQRGI-CVPCTRC---------DP-A-K--------RLVVRYPCE-IHR-DTICQS---
+>tr|A0A7J6ZKX8|A0A7J6ZKX8 9COLE TNFR-Cys domain-containing protein OS=Lamprigera yunnana OX=370605 GN=FQA39 LY00560 PE=4 SV=1
+------------------LVCPQ-----GKQF--LHQDLQV-CVNCTIC---------DN-E-K--------GQVVLRPCE-VHR-DTICGP---
+>tr|A0A7J6ZLK8|A0A7J6ZLK8 9COLE TNFR-Cys domain-containing protein OS=Abscondita terminalis OX=2069292 GN=FQR65 LT02905 PE=4 SV=1
+------------------LVCPQ-----GKQF--LHHNLQI-CVNCTVC---------DN-E-K--------SQVVLRPCE-VHR-DTICGP---
+>tr|A0A7M7GBC9|A0A7M7GBC9 APIME tumor necrosis factor receptor superfamily member 4-like OS=Apis mellifera OX=7460 GN=LOC100577213 PE=4 SV=1
+------------------GKCAP-----GTYS--PHHSIQP-CWICSRC---------GP-G-L----------YEAHPCT-SKT-DTVCDS---
+>tr|A0A7M7GKN7|A0A7M7GKN7 NASVI TNFR-Cys domain-containing protein OS=Nasonia vitripennis OX=7425 PE=4 SV=1
+---------------TVCAECQP-----GTYS--PHHGTQP-CWICSRC---------GP-G-L----------YEARRCS-AST-DTVCDS---
+>tr|A0A7M7LKS1|A0A7M7LKS1 APIME tumor necrosis factor receptor superfamily member wengen isoform X1 OS=Apis mellifera OX=7460 GN=726958 PE=4 SV=1
+------------------PVCKP-----GFEF--WSVEHAT-CLPCTRC---------AP-D------------FTLSPCA-IYK-DAICGP---
+>tr|A0A7R8V193|A0A7R8V193 HERIL TNFR-Cys domain-containing protein OS=Hermetia illucens OX=343691 GN=HERILL LOCUS12311 PE=4 SV=1
+------------------SPCQS------DSW--WDSVNDK-CVQCSKC---------SG-Q-L----------IAIRPCQ-LHR-DTICGS---
+>tr|A0A7R8VJU9|A0A7R8VJU9 TIMDO TNFR-Cys domain-containing protein OS=Timema douglasi OX=61478 GN=TDIB3V08 LOCUS6151 PE=4 SV=1
+------------------ALCRS-----GRQF--WDTTSES-CVNCTRC--------ISPEE------------VVLRPCE-IHQ-DTLCGP---
+>tr|A0A7R9EZT1|A0A7R9EZT1 9NEOP TNFR-Cys domain-containing protein OS=Timema bartmani OX=61472 GN=TBIB3V08 LOCUS6775 PE=4 SV=1
+------------------YPCGT-----RILE--CRPTTKT-C-QCVAC----------S-Q----LQLHNDYWKVCKKC--LSW-EAQCNS---
+>tr|A0A7R9FKS3|A0A7R9FKS3 9NEOP TNFR-Cys domain-containing protein OS=Timema tahoe OX=61484 GN=TTEB3V08 LOCUS3306 PE=4 SV=1
+------------------YPCGT-----RILE--CRPTTKT-C-QCVAC---------SQ-L-Q-------LHNDYWKVCKKCLSWEAQCNS---
+>tr|A0A7R9PLM9|A0A7R9PLM9 TIMGE TNFR-Cys domain-containing protein OS=Timema genevievae OX=629358 GN=TGEB3V08 LOCUS5677 PE=4 SV=1
+------------------ESCVD-----GEFN-----ERGSFCGCCATC---------DK-H------------LEEVSCSWSYGYKVYCLV---
+>tr|A0A821SDU3|A0A821SDU3 9NEOP TNFR-Cys domain-containing protein OS=Pieris macdunnoughi OX=345717 GN=PMACD LOCUS7388 PE=4 SV=1
+------------------RACER-----GRTW--WHRENGI-CMPCTRC---------DP-R-R--------L-AVKYPCE-VHR-DTICQP---
+>tr|A0A833S997|A0A833S997 9HYME TNFR-Cys domain-containing protein OS=Frieseomelitta varia OX=561572 GN=E2986 11664 PE=4 SV=1
+------------------PVCKP-----GFEF--WSVERAT-CWPCTRC---------SP-E------------FTLSPCA-IYK-DAICGP---
+>tr|A0A833VR09|A0A833VR09 9HYME TNFR-Cys domain-containing protein OS=Frieseomelitta varia OX=561572 GN=E2986 10965 PE=4 SV=1
+------------------GKCVP-----GTYS--PHHSTQP-CWICSRC---------GP-G-L----------FEAHPCT-SKT-DTICDS---
+>tr|A0A834I5C0|A0A834I5C0 RHYFE TNFR-Cys domain-containing protein OS=Rhynchophorus ferrugineus OX=354439 GN=GWI33 019434 PE=4 SV=1
+------------------QICPD-----KQYY---NATEQR-CTNCSEC---------SQ-G-D----------VVLRPCE-LFS-DTVCGP---
+>tr|A0A834IVI2|A0A834IVI2 RHYFE TNFR-Cys domain-containing protein OS=Rhynchophorus ferrugineus OX=354439 GN=GWI33 009550 PE=4 SV=1
+------------------AKCPT-----GEYL-VWDDC-GC-CQSCSKY---------PKNG----------------PCGKCDQ-DVVCWK---
+>tr|A0A834MW22|A0A834MW22 VESGE TNFR-Cys domain-containing protein OS=Vespula germanica OX=30212 GN=HZH68 013082 PE=4 SV=1
+------------------AKCLP-----GTYS--PHHSTQP-CWICSRC---------GP-G-L----------YEAHPCT-SKT-DTVCDS---
+>tr|A0A834N1U7|A0A834N1U7 VESGE TNFR-Cys domain-containing protein OS=Vespula germanica OX=30212 GN=HZH68 010389 PE=4 SV=1
+------------------PVCKP-----GLEF--WSTERAS-CWPCTRC---------AP-K------------FTLSPCA-VHQ-DAICGP---
+>tr|A0A834NIN7|A0A834NIN7 VESPE TNFR-Cys domain-containing protein OS=Vespula pensylvanica OX=30213 GN=H0235 013725 PE=4 SV=1
+------------------AKCLP-----GTYS--PHHSTQP-CWICSRC---------GP-G-L----------YEAHPCT-SKT-DTVCDS---
+>tr|A0A834U506|A0A834U506 VESPE TNFR-Cys domain-containing protein OS=Vespula pensylvanica OX=30213 GN=H0235 011263 PE=4 SV=1
+------------------PVCKP-----GLEF--WSTERAS-CWPCTRC---------AP-K------------FTLSPCA-VHQ-DAICGP---
+>tr|A0A834XQA4|A0A834XQA4 9HYME TNFR-Cys domain-containing protein OS=Aphidius gifuensis OX=684658 GN=HCN44 008752 PE=4 SV=1
+------------------PICKP-----SHEY--WSSELSS-CINCTKC---------AP-E------------FTISPCA-IDK-NSVCGP---
+>tr|A0A834XU55|A0A834XU55 9HYME TNFR-Cys domain-containing protein OS=Aphidius gifuensis OX=684658 GN=HCN44 004902 PE=4 SV=1
+------------------PICKP-----SHEY--WSSELSS-CINCTKC---------AP-E------------FTISPCA-IDK-NSVCGP---
+>tr|A0A835G5K8|A0A835G5K8 SPOEX TNFR-Cys domain-containing protein OS=Spodoptera exigua OX=7107 GN=HW555 011283 PE=4 SV=1
+------------------GACER-----GVSW--WDRQRGT-CVPCTRC---------DP-A-K--------RLVVRYPCE-IHR-DTICQS---
+>tr|A0A835L1L0|A0A835L1L0 SPOEX TNFR-Cys domain-containing protein OS=Spodoptera exigua OX=7107 GN=HW555 010392 PE=4 SV=1
+------------------EHCFE-----G-YF--CETATNI-CEECLQC----EDFNRQPPK------------LNSTEC--IKS-LDKCGP---
+>tr|A0A8B8I3G8|A0A8B8I3G8 VANTA tumor necrosis factor receptor superfamily member wengen OS=Vanessa tameamea OX=334116 GN=LOC113397428 PE=4 SV=1
+------------------GACER-----GRTW--WHRQRGA-CIPCTRC---------DP-R-R--------L-AVKYPCE-LHR-DTICQP---
+>tr|A0A8D8FJN1|A0A8D8FJN1 CULPI Tumor necrosis factor receptor superfamily member wengen OS=Culex pipiens OX=7175 PE=4 SV=1
+------------------AVCEP------DRW--WNPERSE-CVPCRVC---------DE-Q-Q----------LVMRPCQ-EYM-DTVCGT---
+>tr|A0A8I6RZH1|A0A8I6RZH1 CIMLE TNFR-Cys domain-containing protein OS=Cimex lectularius OX=79782 GN=106669879 PE=4 SV=1
+------------------RLCNL------NEY--WSNEEEI-CLPCTKC---------PP-H-Q----------LTMRPCQ-GHK-DTVCKP---
+>tr|A0A8J2H621|A0A8J2H621 COTCN TNFR-Cys domain-containing protein OS=Cotesia congregata OX=51543 GN=HICCMSTLAB LOCUS2554 PE=4 SV=1
+------------------SKCKP-----GTYS--PHHNLQS-CWICSRC---------GP-G-L----------YEAHRCT-SKT-DTVCDS---
+>tr|A0A8J5AP35|A0A8J5AP35 9DIPT TNFR-Cys domain-containing protein OS=Bradysia odoriphaga OX=1564500 GN=HA402 003263 PE=4 SV=1
+------------------PPCLE------QSW--WDEKTDS-CIPCTIC---------DE-Q-S----------IVLRPCQ-PHK-DVICGT---
+>tr|A0A8J6HC52|A0A8J6HC52 TENMO TNFR-Cys domain-containing protein OS=Tenebrio molitor OX=7067 GN=GEV33 010841 PE=4 SV=1
+------------------SICIP-----KIQY--LNTSLQK-CVNCTQC----------P-E------------AVLRPCE-IHR-DSVCGP---
+>tr|A0A8K0DAJ7|A0A8K0DAJ7 9COLE TNFR-Cys domain-containing protein OS=Ignelater luminosus OX=2038154 GN=ILUMI 06500 PE=4 SV=1
+------------------SVCPQ-----GKQF--LKQELQT-CVNCTIC---------DS-K-R--------GEVVLRPCE-VHR-DTICGP---
+>tr|A0A8K0JWB2|A0A8K0JWB2 LADFU TNFR-Cys domain-containing protein OS=Ladona fulva OX=123851 GN=J437 LFUL004428 PE=4 SV=1
+------------------APCVA-----GETF--WDTIRQN-CVPCTRC---------EA-T-E--------AFLVVVPCQ-PHK-DTKCGN---
+>tr|A0A8K0P555|A0A8K0P555 LADFU TNFR-Cys domain-containing protein OS=Ladona fulva OX=123851 GN=J437 LFUL007492 PE=4 SV=1
+------------------EECGS-----GTYS--PHHSAVDGCWVCSQC---------GW-G-L----------FKSHPCT-PEA-DTTCDS---
+>tr|A0A8R1W754|A0A8R1W754 ACYPI TNFR-Cys domain-containing protein OS=Acyrthosiphon pisum OX=7029 GN=100162515 PE=4 SV=1
+------------------NDCFE-----KNSY--CDISLNL-CSQCMNC----------S-I----YFRTSK--K-NIEC--PKD-ISDCSS---
+>tr|A0A8R1WKE0|A0A8R1WKE0 BOMMO TNFR-Cys domain-containing protein OS=Bombyx mori OX=7091 PE=4 SV=1
+------------------GLCER-----GRSF--WDQKNQA-CTPCTHC---------DP-T-L--------RLVVKYPCE-VYR-DTICQS---
+>tr|A0A8R1WKK0|A0A8R1WKK0 BOMMO TNFR-Cys domain-containing protein OS=Bombyx mori OX=7091 PE=4 SV=1
+------------------EQCTA-----G-YY--CNTYTYV-CNKCINC---------QQ-G-REFVMENTTPNNRSNNCT-----SFGCGP---
+>tr|A0A8R2C6Q8|A0A8R2C6Q8 BOMMO TNFR-Cys domain-containing protein OS=Bombyx mori OX=7091 PE=4 SV=1
+------------------TQCSS------GYY--CEIALNI-CRECINC----EELKREP-STR----------FPPNTC--IKS-VVDCGTCKK
+>tr|A0A8S0Z088|A0A8S0Z088 ARCPL TNFR-Cys domain-containing protein OS=Arctia plantaginis OX=874455 GN=APLA LOCUS2259 PE=4 SV=1
+------------------DHCTR------GYY--CDTEAKK-CRECLRC----------Q-D----FKREP---LDDNTC--ITS-IDKCGLCFK
+>tr|A0A8S0Z7G5|A0A8S0Z7G5 ARCPL TNFR-Cys domain-containing protein OS=Arctia plantaginis OX=874455 GN=APLA LOCUS3698 PE=4 SV=1
+------------------GECKR-----GVSW--WDRHRGS-CVPCTRC---------DS-A-Q--------RLVVRYPCE-IHR-DTICQS---
+>tr|A0A8S1BAJ5|A0A8S1BAJ5 ARCPL TNFR-Cys domain-containing protein OS=Arctia plantaginis OX=874455 GN=APLA LOCUS15631 PE=4 SV=1
+------------------DHCTR------GYY--CDTEAKK-CRECLRC---------QD-F-K-------REPLEDNTCI-TSI-DK-CGL---
+>tr|A0A8S1BLI4|A0A8S1BLI4 9INSE TNFR-Cys domain-containing protein OS=Cloeon dipterum OX=197152 GN=CLODIP 2 CD07871 PE=4 SV=1
+------------------VDCPP-----GFYS--SHNSAFERCYPCSKC---------GP-G-L----------YEAQSCT-TRT-DTVCDR---
+>tr|A0A8S1D572|A0A8S1D572 9INSE TNFR-Cys domain-containing protein OS=Cloeon dipterum OX=197152 GN=CLODIP 2 CD07751 PE=4 SV=1
+------------------PPCPK-----GHGF--WDTNRQE-CAQCKVC---------SH-N-E----------VVLMPCQ-PYK-DTLCGP---
+>tr|A0A8S1D639|A0A8S1D639 9INSE TNFR-Cys domain-containing protein OS=Cloeon dipterum OX=197152 GN=CLODIP 2 CD05766 PE=4 SV=1
+------------------LECRRQEARSGADS--CHHTGGD-CTECQNC---------GG-K-G--------PTEWLSCCE---T-HFRCCA---
+>tr|B0XCS7|B0XCS7 CULQU TNFR-Cys domain-containing protein OS=Culex quinquefasciatus OX=7176 GN=6050932 PE=4 SV=1
+------------------AVCEP------DRW--WNPERSE-CVPCRVC---------DE-Q-Q----------LVMRPCQ-EYM-DTVCGT---
+>tr|B3MWQ7|B3MWQ7 DROAN TNFR-Cys domain-containing protein OS=Drosophila ananassae OX=7217 GN=Dana\GF22405 PE=4 SV=1
+------------------GGCAP------QHW--WDSNRNR-CIPCTRC---------QD-E-M----------IPLRPCQ-LHT-DTICGS---
+>tr|B3NTG1|B3NTG1 DROER TNFR-Cys domain-containing protein OS=Drosophila erecta OX=7220 GN=Dere\GG18107 PE=4 SV=1
+------------------SPCAP------QHW--WDSQRDR-CTPCTRC---------QG-E-M----------IPLRPCQ-LHT-DTICGS---
+>tr|B4L3L4|B4L3L4 DROMO TNFR-Cys domain-containing protein OS=Drosophila mojavensis OX=7230 GN=Dmoj\GI15577 PE=4 SV=2
+------------------SPCAP------QHW--WDQVQDK-CMPCTSC---------QG-E-M----------IPLRPCQ-LHI-DTVCRS---
+>tr|B4MD82|B4MD82 DROVI TNFR-Cys domain-containing protein OS=Drosophila virilis OX=7244 GN=Dvir\GJ15183 PE=4 SV=2
+------------------SPCAP------QHW--WDQLQHK-CTPCTSC---------QG-E-M----------MTHRPCQ-LHI-DTVCRS---
+>tr|B4ND85|B4ND85 DROWI TNFR-Cys domain-containing protein OS=Drosophila willistoni OX=7260 GN=Dwil\GK24955 PE=4 SV=1
+------------------SPCAP------HHW--WDAMQDK-CIPCTSC---------QG-E-M----------IPLRPCQ-LHT-DTICGS---
+>tr|B4PWC9|B4PWC9 DROYA TNFR-Cys domain-containing protein OS=Drosophila yakuba OX=7245 GN=Dyak\GE15508 PE=4 SV=2
+------------------SPCAP------QHW--WDSQRDR-CTPCTRC---------QG-E-M----------IPLRPCQ-LHT-DTICGS---
+>tr|D1ZZX5|D1ZZX5 TRICA TNFR-Cys domain-containing protein OS=Tribolium castaneum OX=7070 GN=AUGUSTUS-3.0.2 07381 PE=4 SV=1
+------------------SICVS-----RQYF---NSRLAS-CVNCTEC------------V-E--------GDIVVRPCE-FHR-DTLCRP---
+>tr|E0VCJ6|E0VCJ6 PEDHC TNFR-Cys domain-containing protein OS=Pediculus humanus subsp. corporis OX=121224 GN=8231663 PE=4 SV=1
+------------------EICEN------NQF--WSSVLER-CENCSRC---------TN-P-D----------IVIRPCE-RYA-DTVCGP---
+>tr|E2A8U2|E2A8U2 CAMFO TNFR-Cys domain-containing protein OS=Camponotus floridanus OX=104421 GN=EAG 01488 PE=4 SV=1
+------------------KKCPV-----GTYS--RHHGTQP-CWNCARC---------GP-G-L----------YEAHPCT-SRT-DTVCDS---
+>tr|E2ACS4|E2ACS4 CAMFO TNFR-Cys domain-containing protein OS=Camponotus floridanus OX=104421 GN=EAG 15898 PE=4 SV=1
+------------------PVCKP-----GLEF--WSTERAS-CWPCTRC---------AP-D------------FTLSPCA-VHK-DAICGS---
+>tr|E2BAL3|E2BAL3 HARSA TNFR-Cys domain-containing protein OS=Harpegnathos saltator OX=610380 GN=EAI 11151 PE=4 SV=1
+------------------PICKP-----GLEF--WSTDRAS-CWPCTRC---------TP-E------------FTLSPCV-LHN-DAICGP---
+>tr|F4W6A6|F4W6A6 ACREC TNFR-Cys domain-containing protein OS=Acromyrmex echinatior OX=103372 GN=G5I 01000 PE=4 SV=1
+------------------PICRP-----GLEF--WSTERAS-CWPCTRC---------AP-E------------FTLSPCV-IHK-DAICGP---
+>tr|F4WLP9|F4WLP9 ACREC TNFR-Cys domain-containing protein OS=Acromyrmex echinatior OX=103372 GN=G5I 06675 PE=4 SV=1
+------------------ERCPS-----GTYS--PHHSTQP-CWNCARC---------GP-G-L----------YEAHPCT-SRT-DTVCDS---
+>tr|S4P821|S4P821 9NEOP Wengen OS=Pararge aegeria OX=116150 PE=4 SV=1
+------------------GACER-----GRSW--WHRQRGA-CVPCTRC---------DP-R-R---------FVVKFPCE-LHR-DTICQP---
+>tr|T1PD88|T1PD88 MUSDO TNFR/NGFR cysteine-rich region OS=Musca domestica OX=7370 PE=2 SV=1
+------------------SLCDP------QSW--WDPYKDK-CIPCTVC---------QG-D-M----------IPLRPCQ-MHR-DTVCGS---
+>tr|U4UDB9|U4UDB9 DENPD TNFR-Cys domain-containing protein OS=Dendroctonus ponderosae OX=77166 GN=D910 09282 PE=4 SV=1
+------------------SICPK------HQY--LNAQQQR-CMNCTEC---------SQ-G-T----------IVLLPCE-LHR-DTHCGP---
+>tr|X2JCG6|X2JCG6 DROME Wengen isoform B OS=Drosophila melanogaster OX=7227 GN=wgn PE=4 SV=1
+------------------SPCAP------QHW--WDSQRDR-CTPCTRC---------QG-E-M----------IPLRPCQ-LHT-DTICGS---
